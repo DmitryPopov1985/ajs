@@ -20,6 +20,7 @@
   "bugs": {
     "url": "https://github.com/DmitryPopov1985/ajs/issues"
   },
+  "homepage": "https://github.com/DmitryPopov1985/ajs#readme",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.2",
