@@ -2,7 +2,7 @@
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
+
 doc
 
 # Logs
@@ -85,4 +85,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-# 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
